@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environment
+.env
+*.env
+backend/.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build
+frontend/build/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Setup script (optional)
+setup.js
