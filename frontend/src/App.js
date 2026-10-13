@@ -211,9 +211,7 @@ function Results({ data, onReset }) {
   const score = data.matchScore || 0;
   const scoreColor =
     score >= 70 ? 'text-green-600' : score >= 50 ? 'text-amber-500' : 'text-red-500';
-  const scoreBg =
-    score >= 70 ? 'from-green-500 to-emerald-600' : score >= 50 ? 'from-amber-400 to-orange-500' : 'from-red-500 to-rose-600';
-
+  
   return (
     <div className="space-y-6 animate-fade-in">
       {/* Score Card */}
