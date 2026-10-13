@@ -2,7 +2,7 @@ import { useState, useCallback } from 'react';
 import { useDropzone } from 'react-dropzone';
 import axios from 'axios';
 
-const API = 'http://localhost:5000/api';
+const API = 'https://jobfit-backend-xxxx.onrender.com/api';
 
 function App() {
   const [file, setFile] = useState(null);
