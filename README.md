@@ -1,5 +1,7 @@
 # 🎯 JobFit Analyzer
 
+🔴 **[Live Demo](https://jobfit-analyzer-delta.vercel.app)** | 📂 **[GitHub](https://github.com/shivkumarpaswan/jobfit-analyzer)**
+
 An AI-powered resume analyzer that matches your resume against any job description and gives a match score with skill gap analysis.
 
 ## 🚀 Features
@@ -37,6 +39,18 @@ An AI-powered resume analyzer that matches your resume against any job descripti
 2. Backend extracts text from PDF/DOCX
 3. Gemini AI compares resume against JD
 4. Returns match score, matched/missing skills, strengths, weaknesses, and suggestions
+
+## 📸 Screenshot
+
+### Home Page
+![Home Page](home.png)
+
+### Analysis Result
+![Analysis Result](result.png)
+
+## 🔗 Live Demo
+
+👉 **[Try it live](https://jobfit-analyzer-delta.vercel.app)**
 
 ## 📦 Installation
 
