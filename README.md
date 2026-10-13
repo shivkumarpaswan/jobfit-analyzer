@@ -43,10 +43,10 @@ An AI-powered resume analyzer that matches your resume against any job descripti
 ## 📸 Screenshot
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](home.png)
 
 ### Analysis Result
-![Analysis Result](screenshots/result.png)
+![Analysis Result](result.png)
 
 ## 🔗 Live Demo
 
